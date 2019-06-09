@@ -1,3 +1,3 @@
 Pokemon-Arena
 
-<!-- Still in development -->
+<!-- Update in progress-->
