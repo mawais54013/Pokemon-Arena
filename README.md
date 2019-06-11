@@ -1,3 +1,3 @@
 Pokemon-Arena
 
-<!-- Update in progress-->
+<!-- Currently moving to swift -->
