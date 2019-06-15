@@ -1,4 +1,4 @@
 Pokemon-Arena
 
-<!-- Currently moving to swift 
-programming for vr app-->
+<!-- Working on react native app  -->
+<!-- update working on swift  -->
