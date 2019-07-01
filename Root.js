@@ -2,9 +2,9 @@
 import React, { Component } from 'react';
 import { createStackNavigator } from 'react-navigation';
 
-import Login from './src/screens/LoginScreen';
-import Battle from './src/screens/BattleScreen';
-import TeamSelection from './src/screens/TeamSelectionScreen';
+import LoginScreen from "./src/screens/LoginScreen";
+import BattleScreen from "./src/screens/BattleScreen";
+import TeamSelectionScreen from "./src/screens/TeamSelectionScreen";
 
 import { Provider } from 'react-redux';
 import { compose } from redux;
